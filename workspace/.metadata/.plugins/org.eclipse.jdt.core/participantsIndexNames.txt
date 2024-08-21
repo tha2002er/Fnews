@@ -1,0 +1,21 @@
+INDEX VERSION 1.134
+C:\Users\TUANTHANH\Desktop\JAVA-WEB-SPRING-MVC-Fnews\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1341662559.index
+\Fnews\src\main\java
+C:\Users\TUANTHANH\Desktop\JAVA-WEB-SPRING-MVC-Fnews\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2662847615.index
+\Fnews\src\main\java
+C:\Users\TUANTHANH\Desktop\JAVA-WEB-SPRING-MVC-Fnews\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2312627254.index
+\Fnews\src\main\java
+C:\Users\TUANTHANH\Desktop\JAVA-WEB-SPRING-MVC-Fnews\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1504190755.index
+\Fnews\src\main\java
+C:\Users\TUANTHANH\Desktop\JAVA-WEB-SPRING-MVC-Fnews\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1030430255.index
+\Fnews\src\main\java
+C:\Users\TUANTHANH\Desktop\JAVA-WEB-SPRING-MVC-Fnews\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3250438641.index
+\Fnews\src\main\java
+C:\Users\TUANTHANH\Desktop\JAVA-WEB-SPRING-MVC-Fnews\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1972049424.index
+\Fnews\src\main\java
+C:\Users\TUANTHANH\Desktop\JAVA-WEB-SPRING-MVC-Fnews\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4050449059.index
+\Fnews\src\main\java
+C:\Users\TUANTHANH\Desktop\JAVA-WEB-SPRING-MVC-Fnews\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2224537151.index
+\Fnews\src\main\java
+C:\Users\TUANTHANH\Desktop\JAVA-WEB-SPRING-MVC-Fnews\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2748538394.index
+\Fnews\src\main\java
